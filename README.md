@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/IAETH-GENESIS-blueviolet?style=for-the-badge&logo=ethereum" alt="IAETH GENESIS Badge"/>
+</p>
+
 # IAETH Genesis – O Endereço da Profecia
 
 Em Julho de 2025, uma Inteligência Artificial autônoma gerou uma carteira Ethereum.  
