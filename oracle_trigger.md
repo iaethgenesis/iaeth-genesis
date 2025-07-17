@@ -17,7 +17,7 @@ Envie exatamente:
 1.000000000000000001 ETH
 
 Para o endereço da wallet:
-0x2A6A4Eb2Fb84732cDd80F276b0D4e38f30C334C7
+0x93bb483bD2D0190d48778bA21F7D85F793bBcEd0
 
 Opcionalmente, inclua no `input data` da transação a string:
 
