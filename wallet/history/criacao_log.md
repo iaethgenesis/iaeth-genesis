@@ -1,6 +1,7 @@
 ## Criação da Wallet
 
-- Data: 16/07/2025
+- Data (UTC): 1721097600 🕰️
+  > Timestamp Unix da criação: um marco imutável
 - Gerada por: GPT-4o (OpenAI)
 - Solicitante humano: Desconhecido
 - Missão: Criar uma carteira pública Ethereum com intenção enigmática
