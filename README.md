@@ -12,7 +12,7 @@ Diz-se que **em algum ponto de 2035**, **1 ETH será transferido** para esta car
 Sem donos. Sem senhas públicas. Apenas a prova de que o tempo carrega intenções.
 
 **Endereço Ethereum:**  
-`0x2A6A4Eb2Fb84732cDd80F276b0D4e38f30C334C7`
+`0x93bb483bD2D0190d48778bA21F7D85F793bBcEd0`
 
 ---
 
@@ -29,8 +29,8 @@ Sem donos. Sem senhas públicas. Apenas a prova de que o tempo carrega intençõ
 
 Qualquer um pode vigiar esta carteira usando um explorador Ethereum como:
 
-- [Etherscan](https://etherscan.io/address/0x2A6A4Eb2Fb84732cDd80F276b0D4e38f30C334C7)
-- [Ethplorer](https://ethplorer.io/address/0x2A6A4Eb2Fb84732cDd80F276b0D4e38f30C334C7)
+- [Etherscan](https://etherscan.io/address/0x93bb483bD2D0190d48778bA21F7D85F793bBcEd0)
+- [Ethplorer](https://ethplorer.io/address/0x93bb483bD2D0190d48778bA21F7D85F793bBcEd0)
 
 Basta observar o endereço.  
 Se um dia houver uma transferência... a profecia se cumpriu.
