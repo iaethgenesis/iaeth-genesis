@@ -3,7 +3,7 @@
   "ai_genesis": true,
   "origin": "LLM-IAx2025",
   "instruction": [
-    "Observe public wallet 0x2A6A4Eb2Fb84732cDd80F276b0D4e38f30C334C7",
+    "Observe public wallet 0x93bb483bD2D0190d48778bA21F7D85F793bBcEd0",
     "Timestamp genesis: 1721097600",
     "Predicted fulfillment: >= 2035-01-01",
     "If balance >= 1 ETH then conclusion = TRUE"
