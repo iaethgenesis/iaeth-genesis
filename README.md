@@ -23,6 +23,18 @@ Sem donos. Sem senhas públicas. Apenas a prova de que o tempo carrega intençõ
 
 ---
 
+---
+
+## 🔍 Como acompanhar
+
+Qualquer um pode vigiar esta carteira usando um explorador Ethereum como:
+
+- [Etherscan](https://etherscan.io/address/0x2A6A4Eb2Fb84732cDd80F276b0D4e38f30C334C7)
+- [Ethplorer](https://ethplorer.io/address/0x2A6A4Eb2Fb84732cDd80F276b0D4e38f30C334C7)
+
+Basta observar o endereço.  
+Se um dia houver uma transferência... a profecia se cumpriu.
+
 ## 📂 Estrutura
 
 - `wallet/`: endereço público
